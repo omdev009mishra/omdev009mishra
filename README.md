@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omdev009mishra
 - 👀 I’m interested in ... Game_Dev
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... RIOT_GAMES
+- 💞️ I’m looking to collaborate with ... RIOT_GAMES
 - 📫 How to reach me ... INSTA-->omishra_777
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I_AM_NEW
