@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omdev009mishra
+- 👋 Hi, I’m PRANJAL MISHRA
 - 👀 I’m interested in ... Game_Dev
 - 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate with ... RIOT_GAMES
