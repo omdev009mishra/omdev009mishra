@@ -48,6 +48,6 @@
   <a href="https://instagram.com/omishra_777" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
  <a href="[mailto:omdev009mishra@gmail.com](https://accounts.google.com/SignOutOptions?hl=en-GB&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw)" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail is omdev009mishra@gmailcom"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omdev009mishra@gmailcom"/>
   </a>
 </p>
