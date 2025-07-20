@@ -37,19 +37,6 @@
 
 <hr>
 
-<h3 align="left">📊 My GitHub Stats & Activity</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=om-mishra&show_icons=true&locale=en&theme=tokyonight" alt="om-mishra" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-mishra&layout=compact&langs_count=6&theme=tokyonight" alt="om-mishra" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-mishra&theme=tokyonight" alt="om-mishra" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/om-mishra/om-mishra/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid">
-</div>
 
 <hr>
 
