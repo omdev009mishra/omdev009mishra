@@ -3,7 +3,7 @@
 <h1 align="center">Hey there, I'm Om Mishra 👋</h1>
 <h3 align="center">A Game Developer in the making, building immersive digital worlds.</h3>
 <div align="center">
-  <img src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" width="50%" alt="Header Banner"/>
+  <img src="https://i.gifer.com/6M8R.gif" width="50%" alt="Header Banner"/>
 </div>
 
 <br>
