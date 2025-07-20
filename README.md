@@ -1,55 +1,60 @@
-<h1 align="center">Hi there, I'm Om Mishra 👋</h1>
-<h3 align="center">A passionate Game Developer and Student from India 🇮🇳</h3>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2e/61/44/2e61441e3daca5efa2fceaeda4745b93.gif" width="100%" alt="Header Banner"/>
+</div>
+
+<h1 align="center">Hey there, I'm Om Mishra 👋</h1>
+<h3 align="center">A Game Developer in the making, building immersive digital worlds.</h3>
+
+<br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnVnM2NnMzhhZm1jMWE1aTRjYWJnaWozcnpybDN0b2I4Mm9kaTNxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6S1vi0s2bKCA2/giphy.gif" alt="Game Development GIF" width="400"/>
+  I'm a passionate and dedicated second-year Computer Science student at <b>Galgotias University</b>. My world revolves around the intersection of creative art and technical logic. I specialize in using <b>C++</b> and <b>Unreal Engine 5</b> to build not just games, but experiences. From modeling detailed 3D characters in <b>Blender</b> to programming complex game mechanics, I am constantly pushing the boundaries of what I can create.
 </p>
 
-I'm a second-year student at Galgotias University, diving deep into the world of game development. I love bringing ideas to life, from crafting 3D characters in Blender to building entire worlds in Unreal Engine 5. I'm driven by the challenge of blending creative art with powerful C++ logic.
+<hr>
 
----
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="unrealengine" width="40" height="40"/> </a> 
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="solidworks" width="40" height="40"/> </a>
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/autodesk-fusion-360.png" alt="fusion360" width="40" height="40"/> </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
+</p>
 
-### 🌱 I’m Currently Learning & Sharpening My Skills In:
-* **Game Engine:** Unreal Engine 5
-* **Programming:** Advanced C++ for Game Logic
-* **3D Modeling:** Blender & SolidWorks
-* **Development Environment:** Visual Studio
+<hr>
 
----
+<h3 align="left">🚀 My Main Projects</h3>
+<ul>
+    <li>🎮 <b>Unnamed Action RPG (In-Progress)</b>: Developing a third-person action RPG to master core mechanics in Unreal Engine 5, including combat, inventory, and character controllers.</li>
+    <li>🎨 <b>3D Character Art</b>: Creating and texturing game-ready characters and assets using Blender and Substance Painter. You can find some of my work on my portfolio (coming soon!).</li>
+    <li>📫 <b>Email Management System</b>: A foundational project built with Java during my first year, demonstrating strong object-oriented programming principles.</li>
+</ul>
 
-### 🛠️ My Tech Stack & Tools
+<hr>
 
-| Languages         | Game Development     | 3D Modeling / CAD    |
-| ----------------- | -------------------- | -------------------- |
-| C++               | Unreal Engine 5      | Blender              |
-| C                 | GameDev Principles   | SolidWorks           |
-| Java              |                      | Autodesk Fusion 360  |
-
----
-
-### 🚀 Some of My Projects
-
-* **3D Character Models:** I enjoy creating and rigging game-ready characters using Blender.
-* **Email Management System:** A comprehensive first-year project built with Java to handle email functionalities.
-
-I'm always working on new game concepts and improving my portfolio. Stay tuned for more!
-
----
-
-### 📬 Get In Touch
-
-* LinkedIn: [Om Mishra](https://www.linkedin.com/in/om-mishra-profile/)  *(Note: I've updated your link to a shareable one. Please check if it's correct!)*
-* Email: [omdev009mishra@gmail.com](mailto:omdev009mishra@gmail.com)
-* Instagram: [@omishra_777](https://www.instagram.com/omishra_777/)
-
----
-
-### 🎮 GitHub Snake Game
-
-*Here's a little something for fun!*
+<h3 align="left">📊 My GitHub Stats & Activity</h3>
 
 <p align="center">
-  <img src="https://github.com/om-mishra/om-mishra/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=om-mishra&show_icons=true&locale=en&theme=tokyonight" alt="om-mishra" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=om-mishra&layout=compact&langs_count=6&theme=tokyonight" alt="om-mishra" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=om-mishra&theme=tokyonight" alt="om-mishra" />
 </p>
 
-*(This snake game will automatically update with your GitHub contributions over time!)*
+<div align="center">
+  <img src="https://github.com/om-mishra/om-mishra/blob/output/github-contribution-grid-snake.svg" alt="snake contribution grid">
+</div>
+
+<hr>
+
+<h3 align="left">🤝 Let's Connect:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/om-mishra-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-mishra-linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/omishra_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omishra_777" height="30" width="40" /></a>
+  <a href="mailto:omdev009mishra@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="omdev009mishra@gmail.com" height="30" width="40" /></a>
+</p>
