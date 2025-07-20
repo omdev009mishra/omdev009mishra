@@ -42,13 +42,13 @@
 
 <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/pranjal-mishra777" target="_blank">
+  <a href="[www.linkedin.com/in/pranjal-mishra777](https://www.linkedin.com/in/pranjal-mishra777/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/omishra_777" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:omdev009mishra@gmail.com" target="_blank">
+  <a href="omdev009mishra@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
