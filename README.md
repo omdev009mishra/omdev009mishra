@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there, I'm Om Mishra 👋</h1>
+<h1 align="center">Hey there, I'm Pranjal Mishra 👋</h1>
 <h3 align="center">A Game Developer in the making, building immersive digital worlds.</h3>
 <div align="center">
   <img src="https://i.gifer.com/6M8R.gif" width="50%" alt="Header Banner"/>
