@@ -42,7 +42,13 @@
 
 <h3 align="left">🤝 Let's Connect:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/om-mishra-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-mishra-linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/omishra_777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omishra_777" height="30" width="40" /></a>
-  <a href="mailto:omdev009mishra@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="omdev009mishra@gmail.com" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/om-mishra-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/omishra_777" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:omdev009mishra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
