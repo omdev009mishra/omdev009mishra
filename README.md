@@ -51,3 +51,17 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omdev009mishra@gmailcom"/>
   </a>
 </p>
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dino Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Dino Game</h1>
+    <canvas id="gameCanvas" width="800" height="250"></canvas>
+    <script src="script.js"></script>
+</body>
+
