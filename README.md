@@ -1,103 +1,220 @@
-# 👋 Hey, I'm Pranjal Mishra
+# Hi there, I'm Pranjal Mishra 👋
 
 <p align="center">
-  <img src="./assets/github-banner.png" width="100%" alt="Pranjal Mishra — Game Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Applied+AI%2FML+Engineer+in+the+Making;Full-Stack+%26+Mobile+Developer;Building+AI-Powered+Healthcare+Systems;SIH+2026+Finalist+%7C+Team+ZeroErrorUnit" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/omdev009mishra">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/pranjal-mishra777/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:omdev009mishra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <b>B.Tech Computer Science & Engineering (2024–2028)</b><br>
+  Galgotias University · Greater Noida, India
 </p>
 
+
+
 <p align="center">
-  <i>Building immersive worlds through code, creativity, and curiosity.</i>
+  <a href="https://pranjal-mishra-profile.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/pranjalmishradev">LinkedIn</a> ·
+  <a href="https://github.com/omdev009mishra">GitHub</a> ·
+  <a href="mailto:omdev009mishra@gmail.com">Email</a>
 </p>
 
 ---
 
-## `01` — About Me
+## 🧑‍💻 About Me
 
-```cpp
-struct Developer {
-    string name = "Pranjal Mishra";
-    string university = "Galgotias University";
-    string degree = "B.Tech Computer Science";
-    string primary_focus = "Game Development";
-    string engine = "Unreal Engine 5";
-    string language = "C++";
-    string creative_tool = "Blender";
-};
-```
+I'm a Computer Science and Engineering undergraduate working at the intersection of **applied AI/ML research, full-stack engineering, and mobile development**.
 
-I'm a Computer Science student fascinated by the intersection of **gameplay programming, interactive worlds, and 3D art**.
+My work focuses on building practical systems that combine local and multimodal AI inference with structured data pipelines, reliable backend services, and accessible user interfaces.
 
-I enjoy understanding how games work beneath the surface—from character controllers and combat systems to the visual details that bring a world to life.
+- 🏥 **Healthcare AI:** Developing MediKiosk, a multilingual voice-first clinical intake and medical document digitization platform.
+- 🧠 **AI/ML:** Exploring speech recognition, OCR, local LLMs, predictive analytics, and domain-constrained AI systems.
+- ⚙️ **Backend Engineering:** Building REST APIs, WebSocket services, database schemas, and data processing pipelines.
+- 📱 **Mobile Development:** Developing cross-platform applications and learning native iOS development with Swift.
+- 🏆 **Hackathons:** Leading Team ZeroErrorUnit on MediKiosk, a Smart India Hackathon 2026 finalist project.
 
-- 🎮 Building and exploring gameplay systems
-- ⚙️ Strengthening C++ and object-oriented programming
-- 🎨 Exploring 3D modeling and real-time assets
-- 🧠 Learning through experimentation and hands-on projects
-- 🚀 Working toward creating polished, playable experiences
+**Research interests:** Multilingual ASR and Indic NLP · Medical Document Intelligence · Domain-Constrained LLMs · Digital Health Interoperability · Predictive Analytics
 
 ---
 
-## `02` — My Arsenal
+## 🏥 Flagship Project: MediKiosk
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,unreal,blender,visualstudio,git,github&theme=dark" alt="Programming languages and development tools" />
+**[MediKiosk — AI Clinical Intake Platform](https://github.com/omdev009mishra/medikiosk-ai-clinical-history-platform)**
+
+<p>
+  <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-2026%20Finalist-success?style=for-the-badge" alt="SIH 2026 Finalist" />
+  <img src="https://img.shields.io/badge/Team-ZeroErrorUnit-blueviolet?style=for-the-badge" alt="Team ZeroErrorUnit" />
+  <img src="https://img.shields.io/badge/Focus-Digital%20Health-blue?style=for-the-badge" alt="Digital Health" />
 </p>
 
-| Domain | Technologies |
+MediKiosk is a multilingual, voice-first clinical history and document intake platform designed to reduce documentation overhead and improve patient intake workflows in high-volume outpatient departments.
+
+The system combines conversational intake, medical document digitization, structured clinical data capture, and clinician-facing review workflows.
+
+| System Layer | Implementation |
 |---|---|
-| Programming | C++, C, Java |
-| Game Development | Unreal Engine 5 |
-| 3D & Design | Blender, SolidWorks, Fusion 360 |
-| Development Tools | Visual Studio, Git, GitHub |
+| Voice & Speech | FastAPI, Faster-Whisper, WebSockets, Ollama and Gemini Live integration |
+| Medical OCR | PaddleOCR, Tesseract OCR, Python microservices |
+| Clinical Interview | Adaptive questioning, SOCRATES-based symptom structuring, deterministic red-flag evaluation |
+| Web Application | React 19, Vite 6, Tailwind CSS v4 |
+| Backend | Node.js, Express, TypeScript, REST APIs and WebSockets |
+| Data Layer | Prisma ORM, PostgreSQL, clinical data persistence |
+| Interoperability | ABHA workflows and ABDM FHIR R4 export |
+| Privacy & Safety | Consent tracking, structured validation and clinician review |
+
+**Key engineering objectives**
+
+- Multilingual voice and touch-based patient interviews.
+- OCR-assisted extraction of information from prescriptions and medical reports.
+- Structured clinical histories with contradiction checks and emergency warning flags.
+- Separate patient kiosk, doctor workstation, and administrative interfaces.
+- Structured data persistence and healthcare interoperability.
+
+> Clinical outputs are intended to support information collection and clinician review, not replace professional diagnosis.
 
 ---
 
-## `03` — Selected Projects
+## 🚀 Project Portfolio
 
-### 🎮 Unnamed Action RPG
-`C++` `Unreal Engine 5`
+### 1. MediKiosk — AI Clinical Intake Platform
+**Category:** Applied AI · Digital Health · Team Lead
 
-A third-person action RPG focused on learning and developing core gameplay systems.
+Multilingual clinical intake combining speech recognition, document OCR, structured interviews, and clinician-facing workflows.
 
-- Combat and character controls
-- Inventory mechanics
-- Interactive environments
-- Gameplay architecture
+**Stack:** Python, FastAPI, Faster-Whisper, PaddleOCR, Ollama, React, TypeScript, PostgreSQL.
 
-### 🎨 3D Character Art
-`Blender` `Substance Painter`
+[View Repository](https://github.com/omdev009mishra/medikiosk-ai-clinical-history-platform)
 
-An exploration of character modeling and the creation of assets for real-time game environments.
+### 2. GeoFit Warriors
+**Category:** Mobile Development · Real-Time Systems
 
-- Character modeling and texturing
-- Materials and visual detailing
-- Game-ready asset workflows
+A fitness gamification concept that transforms physical movement into competitive territorial gameplay, combining location-based interactions with synchronized multiplayer state.
 
-### 📧 Email Management System
-`Java` `OOP`
+**Stack:** Flutter, Firebase, location APIs, mapping APIs.
 
-A foundational Java project demonstrating object-oriented programming and structured application logic.
+### 3. Shuttle Swarm Forecaster
+**Category:** Machine Learning · Predictive Analytics · Team Lead
 
-> Project repositories and demonstrations can be linked here as they become available.
+A transit optimization project focused on analyzing movement matrices and sensor data to forecast congestion and improve dispatch planning.
+
+**Stack:** Python, machine learning, temporal and sensor data analytics.
+
+### 4. LogFusion
+**Category:** Security Analytics · Data Engineering
+
+A vendor-agnostic log preprocessing framework designed to normalize heterogeneous network and security logs while preserving source information for downstream forensic analysis.
+
+**Stack:** Log parsing, schema normalization, data engineering.
+
+### 5. Email Management System
+**Category:** Desktop Applications · Database Systems
+
+A Java desktop application featuring authentication, relational data management, and structured email handling.
+
+**Stack:** Java, Java Swing, MySQL, JDBC.
+
+[View Repository](https://github.com/omdev009mishra/EmailManagementSystem)
+
+### 6. 1Med+
+**Category:** Healthcare Web Application · Hackathon
+
+A patient and physician interface prototype for accessing medical history and presenting relevant information during emergency workflows.
+
+**Stack:** HTML5, CSS3, JavaScript.
+
+[View Repository](https://github.com/omdev009mishra/1Med-)
+
+### 7. Chrome Dino Game Clone
+**Category:** Web Development · Game Logic
+
+A browser-based recreation of the classic dinosaur game featuring procedural obstacles, collision detection, and time-based scoring.
+
+**Stack:** JavaScript, HTML5 Canvas, CSS3.
+
+[View Repository](https://github.com/omdev009mishra/dino-game)
 
 ---
 
-## `04` — GitHub Analytics
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,c,swift,sql&theme=dark" alt="Programming languages" />
+</p>
+
+### AI / ML, Speech & Computer Vision
+
+- Local LLM inference: Ollama
+- Speech recognition: Faster-Whisper
+- OCR: PaddleOCR, Tesseract
+- Predictive modeling and temporal data analysis
+- Structured AI workflows and domain-constrained prompting
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,firebase,mongodb,docker,git,github&theme=dark" alt="Backend and database technologies" />
+</p>
+
+- REST APIs and WebSockets
+- Prisma ORM
+- Database schema design and data persistence
+- GitHub Actions and CI/CD workflows
+
+### Web & Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,flutter,swift&theme=dark" alt="Web and mobile development technologies" />
+</p>
+
+### 3D, Game Development & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity,blender&theme=dark" alt="Game development and 3D tools" />
+</p>
+
+Additional tools: SolidWorks · Autodesk Fusion 360 · DaVinci Resolve · Adobe Premiere Pro
+
+---
+
+## 💼 Experience & Achievements
+
+### Technical Associate — P & V Healing Pathways
+**May 2026 – Present · Greater Noida, India**
+
+- Engineering full-stack application infrastructure and responsive interfaces.
+- Designing relational database schemas and backend APIs.
+- Contributing to application architecture, data handling, and performance improvements.
+
+### 3D Animator — cvnt
+**November 2025 – March 2026 · Remote**
+
+- Created and refined 3D assets using Blender.
+- Worked on modeling, texturing, rigging, and real-time asset preparation.
+
+### iOS Developer Program — Apple & Infosys
+
+- Learning native iOS development with Swift.
+- Exploring application architecture, interface design, and Apple's development ecosystem.
+
+### Smart India Hackathon 2026 — Finalist
+
+- Team Lead, **Team ZeroErrorUnit**.
+- Project: MediKiosk, an AI-powered patient case-taking and clinical intake platform.
+- Problem Statement: #26047.
+
+### Robotics & Technical Events
+
+- Developed an autonomous beach-cleaning robotics concept at the Sharda University Design Express Hackathon.
+- Participated in technical sessions at Techfest, IIT Bombay.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdev009mishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdev009mishra&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=omdev009mishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdev009mishra&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
@@ -106,40 +223,22 @@ A foundational Java project demonstrating object-oriented programming and struct
 
 ---
 
-## `05` — Beyond the Code
+## 🤝 Let's Connect
 
-I believe great games are built where engineering meets imagination.
-
-Whether it's experimenting with gameplay mechanics, learning a new tool, or solving a difficult programming problem, I'm always looking for ways to improve.
-
-**Currently exploring:** C++ · Unreal Engine 5 · Gameplay Programming · 3D Art
-
----
-
-## `06` — Connect
+I'm interested in connecting with engineers, researchers, healthcare innovators, and developers working on meaningful technology.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-mishra777/">
-    LinkedIn
+  <a href="https://pranjal-mishra-profile.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/omdev009mishra">
-    GitHub
+  <a href="https://www.linkedin.com/in/pranjalmishradev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; • &nbsp;
-  <a href="https://instagram.com/omishra_777">
-    Instagram
-  </a>
-  &nbsp; • &nbsp;
   <a href="mailto:omdev009mishra@gmail.com">
-    Email
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <i>"Dream big. Build relentlessly. Keep creating."</i>
-</p>
-
-<p align="center">
-  <sub>CODE · CREATE · PLAY · REPEAT 🎮</sub>
+  <i>Building practical technology at the intersection of AI, engineering, and human needs.</i>
 </p>
