@@ -1,136 +1,145 @@
 # 👋 Hey, I'm Pranjal Mishra
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=Game+Developer+in+the+Making;C%2B%2B+%7C+Unreal+Engine+5;Building+Worlds%2C+One+Line+at+a+Time" alt="Typing introduction" />
+  <img src="./assets/github-banner.png" width="100%" alt="Pranjal Mishra — Game Developer" />
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/6M8R.gif" width="75%" alt="Animated gaming banner" />
-</p>
-
-<p align="center">
-  <b>Computer Science Student · Aspiring Game Developer · 3D Enthusiast</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-mishra777/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://github.com/omdev009mishra">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranjal-mishra777/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:omdev009mishra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
----
-
-## 🧑‍💻 About Me
-
-I'm a Computer Science student at **Galgotias University**, passionate about game development, interactive experiences, and 3D art.
-
-I enjoy combining programming and creativity to build immersive digital worlds. My current focus is on **C++, Unreal Engine 5, and Blender**, with an interest in gameplay systems, combat mechanics, character design, and interactive environments.
-
-- 🎮 Exploring gameplay programming and Unreal Engine 5.
-- 💻 Strengthening my foundations in C, C++, and Java.
-- 🎨 Learning 3D modeling and game-ready asset creation.
-- 🧠 Improving my problem-solving and software development skills.
-- 🚀 Turning ideas into projects, one commit at a time.
-
-> *I don't just want to play games. I want to understand how they're built.*
+<p align="center">
+  <i>Building immersive worlds through code, creativity, and curiosity.</i>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## `01` — About Me
 
-### 💻 Programming Languages
+```cpp
+struct Developer {
+    string name = "Pranjal Mishra";
+    string university = "Galgotias University";
+    string degree = "B.Tech Computer Science";
+    string primary_focus = "Game Development";
+    string engine = "Unreal Engine 5";
+    string language = "C++";
+    string creative_tool = "Blender";
+};
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java&theme=dark" alt="C++, C and Java" />
-</p>
+I'm a Computer Science student fascinated by the intersection of **gameplay programming, interactive worlds, and 3D art**.
 
-### 🎮 Game Development & 3D
+I enjoy understanding how games work beneath the surface—from character controllers and combat systems to the visual details that bring a world to life.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal,blender&theme=dark" alt="Unreal Engine and Blender" />
-</p>
-
-### ⚙️ Tools & Design
-
-<p>
-  <img src="https://skillicons.dev/icons?i=visualstudio,git,github&theme=dark" alt="Visual Studio, Git and GitHub" />
-</p>
-
-**Additional tools:** SolidWorks · Autodesk Fusion 360
+- 🎮 Building and exploring gameplay systems
+- ⚙️ Strengthening C++ and object-oriented programming
+- 🎨 Exploring 3D modeling and real-time assets
+- 🧠 Learning through experimentation and hands-on projects
+- 🚀 Working toward creating polished, playable experiences
 
 ---
 
-## 🚀 Featured Projects
+## `02` — My Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,unreal,blender,visualstudio,git,github&theme=dark" alt="Programming languages and development tools" />
+</p>
+
+| Domain | Technologies |
+|---|---|
+| Programming | C++, C, Java |
+| Game Development | Unreal Engine 5 |
+| 3D & Design | Blender, SolidWorks, Fusion 360 |
+| Development Tools | Visual Studio, Git, GitHub |
+
+---
+
+## `03` — Selected Projects
 
 ### 🎮 Unnamed Action RPG
-**Status:** 🟡 In Development
+`C++` `Unreal Engine 5`
 
-A third-person action RPG project focused on learning and implementing core gameplay systems in Unreal Engine 5.
+A third-person action RPG focused on learning and developing core gameplay systems.
 
-- ⚔️ Combat and character control
-- 🎒 Inventory system
-- 🌍 Interactive game environments
-- 🧩 Gameplay mechanics and system design
-
-**Tech:** C++ · Unreal Engine 5
+- Combat and character controls
+- Inventory mechanics
+- Interactive environments
+- Gameplay architecture
 
 ### 🎨 3D Character Art
+`Blender` `Substance Painter`
 
-An ongoing exploration of 3D character creation and game-ready assets.
+An exploration of character modeling and the creation of assets for real-time game environments.
 
-- Character modeling and sculpting
-- Texturing and materials
-- Asset preparation for real-time environments
-
-**Tech:** Blender · Substance Painter
+- Character modeling and texturing
+- Materials and visual detailing
+- Game-ready asset workflows
 
 ### 📧 Email Management System
+`Java` `OOP`
 
-A Java-based project built to practice object-oriented programming and foundational software design.
+A foundational Java project demonstrating object-oriented programming and structured application logic.
 
-- Object-oriented programming concepts
-- Structured application logic
-- Core Java programming
-
-**Tech:** Java
+> Project repositories and demonstrations can be linked here as they become available.
 
 ---
 
-## 📊 GitHub Activity
+## `04` — GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omdev009mishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdev009mishra&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most-used programming languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omdev009mishra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omdev009mishra&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omdev009mishra&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=omdev009mishra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## `05` — Beyond the Code
 
-I'm always happy to connect with developers, game designers, 3D artists, and people who love building things.
+I believe great games are built where engineering meets imagination.
+
+Whether it's experimenting with gameplay mechanics, learning a new tool, or solving a difficult programming problem, I'm always looking for ways to improve.
+
+**Currently exploring:** C++ · Unreal Engine 5 · Gameplay Programming · 3D Art
+
+---
+
+## `06` — Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pranjal-mishra777/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranjal_Mishra-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+    LinkedIn
   </a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/omdev009mishra">
+    GitHub
+  </a>
+  &nbsp; • &nbsp;
   <a href="https://instagram.com/omishra_777">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+    Instagram
   </a>
+  &nbsp; • &nbsp;
   <a href="mailto:omdev009mishra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    Email
   </a>
 </p>
 
 <p align="center">
   <i>"Dream big. Build relentlessly. Keep creating."</i>
+</p>
+
+<p align="center">
+  <sub>CODE · CREATE · PLAY · REPEAT 🎮</sub>
 </p>
